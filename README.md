@@ -1,5 +1,53 @@
 # mh-python-concepts
 
+## How to use this repository
+
+Learning Python means dealing with many concepts and an even larger number of details.
+Focusing on too many details too early often slows learning down
+and can make things unnecessarily confusing.
+
+For that reason, each topic in this repository is split into two parts.
+
+### Intro
+
+The `intro/` sections focus on the core mechanics of a topic.
+
+They are:
+- self-contained
+- minimal
+- centered on how the concept is actually used
+
+Each intro is designed to give you a solid first contact.
+After working through it, you should be able to:
+- understand the core idea
+- use the concept in real code
+- recognize it when you see it elsewhere
+
+If your goal is to learn Python efficiently,
+working through the intros alone is usually sufficient.
+
+---
+
+### Concepts
+
+The `concepts/` sections go beyond the core mechanics.
+
+They explore:
+- internal details
+- additional tools and variations
+- distinctions that are not always needed in practice
+
+These sections are not required to use the language effectively.
+
+Instead, they exist to:
+- deepen understanding
+- make complex behavior less opaque
+- build a more precise mental model
+
+Having worked through the intro first
+makes these sections much easier to understand.
+
+---
 
 
 ## Setup your environment
