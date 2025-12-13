@@ -13,6 +13,6 @@ Redistribution or inclusion in other teaching repositories
 is not permitted.
 
 Original repository:
-https://github.com/your-github-username/your-repo
+https://github.com/mahaeu/mh-python-concepts
 
 See LICENSE for full terms.
