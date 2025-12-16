@@ -2,6 +2,9 @@
 *_jupy.py
 *_jupy.md
 
+*.csv
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
